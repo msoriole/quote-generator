@@ -1,0 +1,12 @@
+/* restrict auto exapnding after adding padding */
+html {
+    box-sizing: border-box;
+}
+
+/* stretch our background, at least the fullheight of the screen */
+body {
+    margin: 0;
+    min-width: 100vh;
+}
+
+
